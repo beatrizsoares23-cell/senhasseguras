@@ -19,3 +19,8 @@ function diminuiTamanho(){
     }
     numerosenha.textContent = tamanhoSenha;
 }
+
+
+const camposenha = document.querySelector('#campo-senha');
+
+const letrasMaiusculas = 'ABCDEGHIJKLMNOPQRSTUVWXYZ';
